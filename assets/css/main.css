@@ -24,3 +24,29 @@
 .bluese {
   color: #293179;
 }
+* {
+  font-family: "Barlow", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Barlow", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #293170;
+}
+@media (max-width: 576px) {
+  .imgNone {
+    display: none;
+  }
+}
+
+.rowReverse:first-child {
+  order: 2;
+}

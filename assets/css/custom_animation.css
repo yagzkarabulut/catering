@@ -71,9 +71,9 @@
 }
 
 .slideleft {
-  -webkit-animation: slideleft 0.7s 1;
-  -moz-animation: slideleft 0.7s 1;
-  animation: slideleft 0.7s 1;
+  -webkit-animation: slideleft 2s 1;
+  -moz-animation: slideleft 2s 1;
+  animation: slideleft 2s 1;
 }
 @-webkit-keyframes slideleft {
   from {
