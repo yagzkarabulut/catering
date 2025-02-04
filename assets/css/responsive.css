@@ -47,8 +47,8 @@ svg {
 .datepicker table tr td span.active:hover,
 .datepicker table tr td span.active.disabled,
 .datepicker table tr td span.active.disabled:hover {
-  background-color: #cd3131;
-  border-color: #cd3131;
+  background-color: #1ea0db;
+  border-color: #1ea0db;
   color: #fff;
 }
 
@@ -290,7 +290,7 @@ svg {
     position: fixed;
     top: 9%;
     right: 4%;
-    color: #cd3131;
+    color: #1ea0db;
     border-radius: 100%;
     margin-top: 0px;
     text-align: center;
@@ -324,7 +324,7 @@ svg {
     top: 14px;
     font-size: 13px;
     left: 11px;
-    color: #cd3131;
+    color: #1ea0db;
     text-transform: capitalize;
   }
   .cat_menu.open_menu .navbar-collapse.collapse {
@@ -332,7 +332,7 @@ svg {
   }
   .cat_menu.open_menu {
     visibility: visible !important;
-    background-color: rgba(205, 49, 49, 0.8) !important;
+    background-color: rgba(30, 160, 219, 0.8) !important;
     animation: fadeInLeft 0.4s linear 0s normal;
     -webkit-animation: fadeInLeft 0.4s linear 0s normal;
     -moz-animation: fadeInLeft 0.4s linear 0s normal;
@@ -417,11 +417,11 @@ svg {
     margin: 0 5px;
   }
   .cat_menu > ul::-webkit-scrollbar-track-piece {
-    background-color: #cd3131;
-    border: 3px solid #cd3131;
+    background-color: #1ea0db;
+    border: 3px solid #1ea0db;
   }
   .cat_menu > ul::-webkit-scrollbar-thumb {
-    background-color: #cd3131;
+    background-color: #1ea0db;
   }
   .cat_banner_five .cat_menu_wrapper {
     position: relative !important;
